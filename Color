@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h1 style="background-color:rgb(220, 20, 60);">H</h1>
+<h2 style="background-color:rgb(240, 255, 255);">U</h2>
+<h3 style="background-color:rgb(0, 100, 0);">N</h3>
+
+<a href="kollazs.html">Kollázs</a>
+<a href="index.html">Főoldal</a>
+<a href="color.html">Zászló</a>
+
+
+</body>
+</html>
