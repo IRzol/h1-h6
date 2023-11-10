@@ -1,0 +1,29 @@
+.red{
+    background-color: red;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 800px;
+}
+.white{
+    background-color: white;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 800px;
+
+}
+.green{
+    background-color: green;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 800px;
+
+}
+.keret{
+    border:black solid 10px;
+    border-color: black ;
+    margin-bottom: 0;
+    margin-top: 0;
+    border-radius: 10px;
+    width: 800px;
+     
+}
