@@ -2,28 +2,34 @@
     background-color: red;
     margin-top: 0;
     margin-bottom: 0;
-    width: 800px;
+    width: 1000px;
+    height: 150px
 }
 .white{
     background-color: white;
     margin-bottom: 0;
     margin-top: 0;
-    width: 800px;
+    width: 1000px;
+    height: 150px
 
 }
 .green{
     background-color: green;
     margin-bottom: 0;
-    margin-top: 0;
-    width: 800px;
+    margin-top: px;
+    width: 1000px;
+    height: 150px
 
 }
 .keret{
     border:black solid 10px;
     border-color: black ;
     margin-bottom: 0;
-    margin-top: 0;
-    border-radius: 10px;
-    width: 800px;
+    margin-top: 100px;
+    margin-left: 450px;
+    border-radius: 12px;
+    width: 1000px;
+   
+   
      
 }
